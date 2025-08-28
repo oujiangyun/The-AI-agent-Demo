@@ -1,0 +1,52 @@
+﻿################################################################################
+# Visual Studio 生成的目录和文件
+################################################################################
+
+# 所有 .vs 目录（包含用户特定设置）
+.vs/
+
+# 项目构建输出目录
+[Bb]in/
+[Oo]bj/
+
+# 其他构建产物
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ide/
+*.vspscc
+*.vssscc
+
+# 发布输出
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet 包目录
+packages/
+
+# .NET Core 项目文件
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# 运行时的文件
+*.swp
+*~
+
+# 其他
+_ReSharper*/
+*.resharper
+[Tt]humbs.db
